@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #f5f6fa;
+}
+.app{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.appHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.appHeader h1{
+    color: #cc1034;
+}
+.appDropdown{
+    background-color: white;
+}
+.appStats{
+    display: flex;
+    justify-content: space-between;
+}
+.appLeft{
+    flex: 0.9;
+}
+.appRight h3{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+@media (max-width:990px){
+    .app{
+        flex-direction: column;
+    }
+}
