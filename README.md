@@ -8,7 +8,7 @@ This page is one page responsive covid-19 case tracker.You can simply see the ca
 > in addition you can learn the React basics
 > by examine this repository.
 
-You can just simply clode this repository any folder you want and open your favourite Terminal and simply run these commands.And you good to go :).
+You can just simply clone this repository any folder you want and open your favourite Terminal and simply run these commands.And you good to go :)
 
 ```sh
 $ cd covid-19-tracker
@@ -17,9 +17,9 @@ $ npm start
 
 You can find the live demo of this page down below : 
 
-![a](readmeContents/covid19gif.mp4)
+![a](readmeContents/covid19gif.gif)
 
-![b](readmeContents/covid19responsivegif.mp4)
+![b](readmeContents/covid19responsivegif.gif)
 
 Live Demo : https://covid-19-tracker-3cacb.web.app/
 
